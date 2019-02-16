@@ -24,8 +24,8 @@ Di C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/arifistifik/2019`
-- `cd 2019`
+- `git clone https://github.com/alifdaffa56/mybot
+- `cd mybot 
 - `python prosb.py`
 
 INSTALL Di TERMUX :
@@ -45,24 +45,24 @@ INSTALL Di TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- `git clone https://github.com/arifistifik/2019`
-- `cd 2019`
+- `git clone https://github.com/alifdaffa56/mybot
+- `cd mybot
 - `python3 prosb.py`
 
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- `cd 2019`
+- `cd mybot
 - `python3 prosb.py`
 
 Di Termux :
-- `cd 2019`
+- `cd mybot
 - `python3 prosb.py`
 
 
-EDITOR BY ARIFISTIFIK
+EDITOR BY ALIF
 ------
-- `Add My ID LINE : arifistifik`
+- `Add My ID LINE : Alifsticker/thelucknut
 
 Thx To :
 ------
